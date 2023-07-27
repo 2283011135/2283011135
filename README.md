@@ -32,9 +32,7 @@ I am a rookie developer and a top-level CV engineer.
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.2283011135.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.2283011135.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/2283011135/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@2283011135-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow">
+<a href="hzr_cq1220@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-hzr_cq1220@163.com-blue?style=flat&logo=163"></a>
 </p>
 
 
