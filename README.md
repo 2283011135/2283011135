@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [JackRay](https://github.com/2283011135)
-> Software Engineer at [SoftNEP](https://softnep.com)
+> Software Engineer at [JAVA](https://java.com)
 
 
 <img src="https://komarev.com/ghpvc/?username=2283011135" alt="2283011135" />
